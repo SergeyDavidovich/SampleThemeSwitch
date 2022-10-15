@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using SampleThemeSwitch;
 using Syncfusion.Blazor;
 
-Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("NjM5OTU1QDMxMzkyZTM0MmUzMENqV2JFU21kRjlYVEFySEpBVzRlZkNhNXdLaWdINjZ6UC9MMEh3QVQxMEk9");
+Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("NzQwMzYyQDMxMzkyZTM0MmUzMFdPSWROYVNpL1pQWmhjczN2RDFsY1QwU1hXZVhGMDZXL0ViQUpseGNkQkU9");
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
 builder.RootComponents.Add<App>("#app");
